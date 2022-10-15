@@ -423,7 +423,7 @@ textarea::placeholder {
     border: none;
     border-color: var(--blue);
     background-color: var(--blue);
-    background-image: url('../icon-check.svg');
+    background-image: url('../images/icon-check.svg');
     background-position: 1px 2px;
     background-size: contain;
     background-origin: content-box;
